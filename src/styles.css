@@ -1,0 +1,29 @@
+body {
+  font-family: verdana;
+  font-size: 1.2rem;
+}
+
+.li {
+  text-decoration: none;
+}
+.li:hover {
+  color: cornflowerblue;
+}
+
+nav ul li {
+  display: inline;
+}
+
+nav ul {
+  text-align: center;
+}
+
+header {
+  text-align: center;
+}
+
+img {
+  border: 1px solid slategrey;
+  margin: 5px;
+  width: 40%;
+}
